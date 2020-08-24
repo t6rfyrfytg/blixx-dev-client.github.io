@@ -3219,7 +3219,7 @@
                     id: "a",
                     type: "1ffa",
                     code: "herokku-united-states",
-                    at: p.heroku("blixx-10-server"),
+                    at: p.heroku("blixx-dev-server"),
                 },].map((a, e) => ({
                     data: a,
                     i: e
