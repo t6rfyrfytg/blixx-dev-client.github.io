@@ -1,5 +1,5 @@
 # Update 0.2.6
-- Rainbow Basic!
+- Rainbow Basic! (only turret)
 - Added a new boss
 - Planning to change mode
 # Update 0.1.0
