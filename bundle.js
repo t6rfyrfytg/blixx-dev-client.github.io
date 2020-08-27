@@ -258,6 +258,8 @@
                         return l.vl;
                     case "nest":
                         return l.lavender;
+                    case "test":
+                        return l.gold
                     default:
                         return l.white
                 }
