@@ -259,7 +259,7 @@
                     case "nest":
                         return l.lavender;
                     case "test":
-                        return l.gold
+                        return l.gold;
                     default:
                         return l.white
                 }
