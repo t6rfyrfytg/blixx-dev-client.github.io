@@ -1,3 +1,7 @@
+# Update 6.3.9
+- Now bosses will spawn randomly.
+- Maked some changes.
+- Planning to change mode, add new room types and new tanks.
 # Update 5.0.6
 - Added more room types. 
 - Soon, I will add special proprieties to them.
