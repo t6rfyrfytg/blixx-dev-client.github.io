@@ -1,3 +1,6 @@
+# Update 7.0.1a: THE RANDOM UPDATE!
+- Rogue Palisades will spawn in every base!
+- Random Boss Spawn!
 # Update 6.3.9
 - Now bosses will spawn randomly.
 - Maked some changes.
