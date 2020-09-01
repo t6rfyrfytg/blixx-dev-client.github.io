@@ -1,3 +1,5 @@
+# Update 7.0.1b: Client Update
+- Maked some changed to the client.
 # Update 7.0.1a: THE RANDOM UPDATE!
 - Rogue Palisades will spawn in every base!
 - Random Boss Spawn!
