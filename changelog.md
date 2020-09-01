@@ -1,3 +1,6 @@
+# Update 5.0.6
+- Added more room types. 
+- Soon, I will add special proprieties to them.
 # Update 4.7.3
 - Doing tests on adding new room types.
 # Update 3.0.8
