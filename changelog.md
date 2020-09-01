@@ -1,4 +1,4 @@
-# Update 4.7,3
+# Update 4.7.3
 - Doing tests on adding new room types.
 # Update 3.0.8
 - Changed the mode to Medium 4tdm
