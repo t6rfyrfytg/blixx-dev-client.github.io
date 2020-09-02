@@ -1,3 +1,6 @@
+# Update 8.7.1b: Super FFA Update!
+- Changed the mode to Super FFA.
+- Planning to add new tanks and room types
 # Update 8.7.1a: Respawn Update
 - Rogue Palisades will spawn after killed.
 # Update 7.0.1b: Client Update
