@@ -1,3 +1,6 @@
+# Update 10.0.0: Server closed.
+- Sadly, the server has been closed.
+- Opening the server again after repair.
 # Update 8.7.1b: Super FFA Update!
 - Changed the mode to Super FFA.
 - Planning to add new tanks and room types
