@@ -1,4 +1,4 @@
-# Update 12.4.1: Shapy Bullet!
+# Update 12.4.1a: Shapy Bullet!
 - Added a new type of bullet.
 # Update 11.4.2: Big Re-Opening!
 - Fixed all the issues!
