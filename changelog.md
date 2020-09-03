@@ -1,4 +1,11 @@
-# Update 12.4.1a: Shapy Bullet!
+# Update 12.4.1c: Testbed to Basic
+- Changed tank rows.
+- Now you can access testbed tanks. (basic)
+- This update really changed the server to a real testing server.
+# Update 12.4.1b: Shapy Rocket!
+- Added a new type of bullet with custom shape.
+- Added "Rocket" Upgrade from basic.
+# Update 12.4.1a: Shapy bullet!
 - Added a new type of bullet.
 # Update 11.4.2: Big Re-Opening!
 - Fixed all the issues!
