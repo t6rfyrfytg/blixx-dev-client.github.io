@@ -1,3 +1,5 @@
+# Update 14.9.6: Penta Spawn!
+- Added "Pentagon Spawner" Upgrade from basic
 # Update 13.2.7: Rocket!
 - Added more upgrades to "Rocket 1.0"
 - Upgradeble from "Rocket 1.0"
