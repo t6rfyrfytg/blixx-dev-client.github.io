@@ -1,3 +1,6 @@
+# Update 15.1.3: Food & Obstacle spawn!
+- From basic, upgrade to square spawner, try every spawner!
+- Added an bullet, acting like an obstacle!
 # Update 14.9.6: Penta Spawn!
 - Added "Pentagon Spawner" Upgrade from basic
 # Update 13.2.7: Rocket!
