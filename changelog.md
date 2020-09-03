@@ -1,3 +1,6 @@
+# Update 11.4.2: Big Re-Opening!
+- Fixed all the issues!
+- All the plans are done!
 # Update 10.0.0: Server closed.
 - Sadly, the server has been closed.
 - Opening the server again after repair.
