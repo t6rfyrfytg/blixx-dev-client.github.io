@@ -1,6 +1,5 @@
-# Update 16.0.6: Sentry to basic
-- Added a new type of sentry.
-- Now you can access sentry from basic.
+# Update 16.0.6: Snipe!
+- Added Double Snipe and tripe snipe. Upgrade from basic 
 # Update 15.1.3: Food & Obstacle spawn!
 - From basic, upgrade to square spawner, try every spawner!
 - Added an bullet, acting like an obstacle!
