@@ -264,6 +264,8 @@
                         return l.gold;
                     case "teth":
                         return l.blue;
+                    case "deth":
+                        return l.orange;
                     default:
                         return l.white
                 }
