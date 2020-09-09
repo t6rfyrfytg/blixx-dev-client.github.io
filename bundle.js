@@ -258,14 +258,6 @@
                         return l.vl;
                     case "nest":
                         return l.lavender;
-                    case "test":
-                        return l.green;
-                    case "sgld":
-                        return l.gold;
-                    case "teth":
-                        return l.blue;
-                    case "deth":
-                        return l.orange;
                     default:
                         return l.white
                 }
